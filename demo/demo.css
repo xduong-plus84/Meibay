@@ -1,0 +1,10 @@
+header {
+  border: 1px solid red;
+  /* height: 100px; */
+}
+.container {
+  border: 1px solid blue;
+  height: 120px;
+  width: 120px;
+  background-color: rgba(230, 43, 74, 0.6);
+}
